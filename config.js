@@ -32,8 +32,8 @@ module.exports = {
       email: 'rikusen0335@gmail.com',
       facebook: '',
       telegram: '',
-      twitter: 'https://twitter.com/RikuS3n',
-      github: 'https://github.com/Rikusen0335',
+      twitter: 'RikuS3n',
+      github: 'Rikusen0335',
       rss: '',
       vkontakte: '',
       linkedin: '',
@@ -41,9 +41,9 @@ module.exports = {
       line: '',
       gitlab: '',
       weibo: '',
-      codepen: 'https://codepen.io/RikuS3n',
-      youtube: 'https://www.youtube.com/channel/UCwwsFHVKVtk169v6enBN_Ig',
-      soundcloud: 'https://soundcloud.com/rikusen-0335',
+      codepen: 'RikuS3n',
+      youtube: 'UCwwsFHVKVtk169v6enBN_Ig',
+      soundcloud: 'rikusen-0335',
     }
   }
 };
