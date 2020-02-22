@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://lifelog.devmia.net',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'クソ日記',
+  subtitle: '今日も生き抜いています',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 7,
+  googleAnalyticsId: 'UA-125882953-3',
   useKatex: false,
   menu: [
     {
@@ -25,25 +25,25 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'rikusen0335',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'ひよっこエンジニア。色々やってます。',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'rikusen0335@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: 'https://twitter.com/RikuS3n',
+      github: 'https://github.com/Rikusen0335',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: ''
       instagram: '#',
       line: '',
       gitlab: '',
       weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
+      codepen: 'https://codepen.io/RikuS3n',
+      youtube: 'https://www.youtube.com/channel/UCwwsFHVKVtk169v6enBN_Ig',
+      soundcloud: 'https://soundcloud.com/rikusen-0335',
     }
   }
 };
