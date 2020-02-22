@@ -36,8 +36,8 @@ module.exports = {
       github: 'https://github.com/Rikusen0335',
       rss: '',
       vkontakte: '',
-      linkedin: ''
-      instagram: '#',
+      linkedin: '',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
